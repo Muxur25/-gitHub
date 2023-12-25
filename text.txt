@@ -1,0 +1,17 @@
+Git Hub da yangi proekt qoshish uchun
+1 Git Hub profil - your repository
+2 New va qolgan sozlamalarni sozlab saqlash
+4 Va proekt terminalida quyidagi ketma ketlikda 
+5 git init
+6 git add -A
+7 git commit -m "first commit"
+8 git remote add origin https://github.com/Muxur25/yangi.git
+9 git branch -M main
+10 git push -u origin main
+
+
+
+qoshib bolib ozgartirish kiritgandan so'ng
+ git add -A
+ git commit -m "Kommentariya"
+ git push
