@@ -15,3 +15,7 @@ qoshib bolib ozgartirish kiritgandan so'ng
  git add -A
  git commit -m "Kommentariya"
  git push
+
+
+ git log -- qachon kim tomonidan ozgartirish kiritilgani haqida malumot
+ git pull -- bu git hub clone faylga otib yoziladi shuda asosiy faylga qilingan ozgartirishlar bu yoqqayam otadi
